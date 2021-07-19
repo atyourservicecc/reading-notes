@@ -13,5 +13,5 @@ I love being resourceful and learning all things technology. When I'm not doing 
 
 Ten years ago I launched my virtual assistant business, [At Your Service Corridor Community](https://atyourservicecorridorcommunity.com). I am a Solutions Specialist. I help entrepreneurs and small business owners take control of their to do lists by assessing their business situations, developing a plan and executing solutions. I specialize in streamlining processes and tackling the most overwhelming tasks. I started teaching continuing education classes at Kirkwood Community College 8 years ago. I do many of the Microsoft Office courses and have a few classes of my own; Time Management, iPhone series, Mac, Becoming a Virtual Assistant, just to name a few _[click here to see a sample of the courses](https://drive.google.com/file/d/1EqzMeS3rYPQKBM761AMee36oJojuIHLF/view?usp=sharing)_ .
 
-![Image of My Headshot](https://drive.google.com/file/d/1rb3cT5E4Tms36Hlq6_IbP2UyqRbPNFr8/view?usp=sharing)
+![Image of My Headshot](https://share.icloud.com/photos/0_JbQTc12dCVsMi0Up4PItksw)
 
