@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+#What Does_Growth Mindset_Mean To Me?
+This is actually a mindset I have always had, but never knew what it was called. It is a blessing and a curse. I have always been open to learning new things, asking the 'what if' and 'why' questions to fully understand it. The curse of it though is that is causes me to have many different learning projects going on at the same time and I am the go-to person for everyone! I am glad this mindset has been passed down to my daughter. She has challenging delays (mixed expressive-receptive disorder, cognitive delays, speech delays, anxiety, ADD, dyslexia, and memory retention disorder (diagnosed with demanita a few years ago at 6 years old)) so for her to not give up, to always want to learn and understand things has been a blessing for her to continue advancing even with her challenges. She understands her challenges, but doesnt use it as an excuse. She knows if she does she will be like many other people in the world, stuck in the little things they know and not fun to be around!
 
-You can use the [editor on GitHub](https://github.com/atyourservicecc/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#My Reminders To Stay On The_Growth Mindset_Route
+1. My favorite saying, >"If God brings you to it, He will get your through it."
+2. I will get bored if I don't keep learning...and I don't like bored!
+3. I am meant to learn and share with others...I am a natural teacher.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#About Me
+My name is Wanda Johnson. I was born in Rockford, IL, but spent most of my life in Memphis. I moved to Cedar Rapids January 2008 by just pulling out a map and picking a state...bazaar I know! I went to school at the University of Memphis, but transferred to Upper Iowa University Cedar Rapids location. When I graduted June 2009 I was the first graduate of that location with a Bachelor in Psychology and will be featured in the alumni magazine next month. 
 
-### Markdown
+I love being resourceful and learning all things technology. When I'm not doing that you can find me volunteering with my daughter’s Girl Scouts troop (Daisy Troop Leader) or at her school via PTO (2021-2022 PTO President), helping friends with organizing or planning things, attending various events in the city with my daughter, Mai or watching various educational TV shows on Netflix, or thinking of something creative to do with my numerous craft items (my daughter and I love recreating things from Pinterest or repurposing things). While I am usually on the move, I am always more than willing to stop and chat—so be sure if you ever have a question....just ask! _you can email me at wanda@atyourservicecc.biz or find me on Facebook_.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ten years ago I launched my virtual assistant business, [At Your Service Corridor Community](https://atyourservicecorridorcommunity.com). I am a Solutions Specialist. I help entrepreneurs and small business owners take control of their to do lists by assessing their business situations, developing a plan and executing solutions. I specialize in streamlining processes and tackling the most overwhelming tasks. I started teaching continuing education classes at Kirkwood Community College 8 years ago. I do many of the Microsoft Office courses and have a few classes of my own; Time Management, iPhone series, Mac, Becoming a Virtual Assistant, just to name a few_[click here to see a sample of the courses](https://drive.google.com/file/d/1EqzMeS3rYPQKBM761AMee36oJojuIHLF/view?usp=sharing)_.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atyourservicecc/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
