@@ -1,11 +1,11 @@
 # TABLE OF CONTENTS
-~:brain:  [Growth Mindset](https://github.com/atyourservicecc/reading-notes#what-does-growth-mindset-mean-to-me)
+:brain:  [Growth Mindset](https://github.com/atyourservicecc/reading-notes#what-does-growth-mindset-mean-to-me)
 
-~:ballot_box_with_check:  [Growth Mindset Reminders](https://github.com/atyourservicecc/reading-notes#my-reminders-to-stay-on-the-growth-mindset-route)
+:ballot_box_with_check:  [Growth Mindset Reminders](https://github.com/atyourservicecc/reading-notes#my-reminders-to-stay-on-the-growth-mindset-route)
 
-~:wave:  [About Me](https://github.com/atyourservicecc/reading-notes#about-me)
+:wave:  [About Me](https://github.com/atyourservicecc/reading-notes#about-me)
 
-~:open_book:  [Terminal Cheat Sheet](https://github.com/atyourservicecc/reading-notes#terminal-cheat-sheet)
+:open_book:  [Terminal Cheat Sheet](https://github.com/atyourservicecc/reading-notes#terminal-cheat-sheet)
 
 ## What Does _Growth Mindset_ Mean To Me?
 This is actually a mindset I have always had, but never knew what it was called. It is a blessing and a curse. I have always been open to learning new things, asking the 'what if' and 'why' questions to fully understand it. The curse of it though is that is causes me to have many different learning projects going on at the same time and I am the go-to person for everyone! I am glad this mindset has been passed down to my daughter. She has challenging delays (mixed expressive-receptive disorder, cognitive delays, speech delays, anxiety, ADD, dyslexia, and memory retention disorder (diagnosed with demanita a few years ago at 6 years old)) so for her to not give up, to always want to learn and understand things has been a blessing for her to continue advancing even with her challenges. She understands her challenges, but doesnt use it as an excuse. She knows if she does she will be like many other people in the world, stuck in the little things they know and not fun to be around!
