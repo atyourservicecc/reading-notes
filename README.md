@@ -1,3 +1,9 @@
+# TABLE OF CONTENTS
+~:brain: [Growth Mindset] 
+~:ballot_box_with_check: [Growth Mindset Reminders]
+~:wave: [About Me]
+~:open_book: [Terminal Cheat Sheet]
+
 ## What Does _Growth Mindset_ Mean To Me?
 This is actually a mindset I have always had, but never knew what it was called. It is a blessing and a curse. I have always been open to learning new things, asking the 'what if' and 'why' questions to fully understand it. The curse of it though is that is causes me to have many different learning projects going on at the same time and I am the go-to person for everyone! I am glad this mindset has been passed down to my daughter. She has challenging delays (mixed expressive-receptive disorder, cognitive delays, speech delays, anxiety, ADD, dyslexia, and memory retention disorder (diagnosed with demanita a few years ago at 6 years old)) so for her to not give up, to always want to learn and understand things has been a blessing for her to continue advancing even with her challenges. She understands her challenges, but doesnt use it as an excuse. She knows if she does she will be like many other people in the world, stuck in the little things they know and not fun to be around!
 
@@ -16,4 +22,7 @@ _you can email me at wanda@atyourservicecc.biz or find me on Facebook_.
 Ten years ago I launched my virtual assistant business, [At Your Service Corridor Community](https://atyourservicecorridorcommunity.com). I am a Solutions Specialist. I help entrepreneurs and small business owners take control of their to do lists by assessing their business situations, developing a plan and executing solutions. I specialize in streamlining processes and tackling the most overwhelming tasks. I started teaching continuing education classes at Kirkwood Community College 8 years ago. I do many of the Microsoft Office courses and have a few classes of my own; Time Management, iPhone series, Mac, Becoming a Virtual Assistant, just to name a few _[click here to see a sample of the courses](https://drive.google.com/file/d/1EqzMeS3rYPQKBM761AMee36oJojuIHLF/view?usp=sharing)_ .
 
 ![Link to my headshot](https://drive.google.com/file/d/1rb3cT5E4Tms36Hlq6_IbP2UyqRbPNFr8/view?usp=sharing)
+
+## Terminal Cheat Sheet
+
 
