@@ -1,19 +1,19 @@
 # TABLE OF CONTENTS
-:brain:  [Growth Mindset](/Mindset.md)
+- [Growth Mindset](/Mindset.md)
 
-:ballot_box_with_check:  [Growth Mindset Reminders](/Mindset.md)
+- [Growth Mindset Reminders](/Mindset.md)
 
-:wave:  [About Me](/About_Me.md)
+- [About Me](/About_Me.md)
 
-:open_book:  [Terminal Cheat Sheet](/Terminal_Cheat_Sheet.md)
+- [Terminal Cheat Sheet](/Terminal_Cheat_Sheet.md)
 
-:pencil2: [What is Markdown?](/What_is_Markdown?.md)
+- [What is Markdown?](/What_is_Markdown?.md)
 
-:desktop_computer: [What is Text Editor?](/What_is_Text_Editor?.md)
+- [What is Text Editor?](/What_is_Text_Editor?.md)
 
-[Git/GitHub](/Git.md)
+- [Git/GitHub](/Git.md)
 
-[HTML](/HTML.md)
+- [HTML](/HTML.md)
 
 Week of July 19, 2021
 Taking a Software Development Software course through DeltaV
