@@ -8,3 +8,8 @@ When someone is ready to create a website they don't just go out to GoDaddy, buy
 1. **Code Completion** - when suggested texts appear when typing something. It is similar to when you typing a text in your phone and when you start typing a word your phone has 3 words that pop up above the keyboard area. You can click on one of those words to have the remainder of the word completed for you. Just imagine if it could give you options for an entire sentence! 
 2. **Shorthand Language (Emmet)** - This is similar to what a court room secretary does when they are recording everything said or done during a trial or court case.
 3. **Syntax Highlighting** - This is when text appears in different colors to make it easier to know when different elements of the website it being typed so making updates and/or creations can be faster. Similar to when you text someone on your phone. Your text bubbles are either green or blue and the other person you are texting with bubble is white. When you go back to look for something and you know they sent it to you, you will look in the white bubbles. 
+
+# Lab 3
+
+
+# Lab 4
