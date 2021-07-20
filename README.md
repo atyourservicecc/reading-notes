@@ -5,7 +5,7 @@
 
 :wave:  [About Me](https://github.com/atyourservicecc/reading-notes#about-me)
 
-:open_book:  [Terminal Cheat Sheet](https://github.com/atyourservicecc/reading-notes#terminal-cheat-sheet)
+:open_book:  [Terminal Sheet](https://github.com/atyourservicecc/reading-notes#terminal-cheat-sheet)
 
 :pencil2: [What is Markdown?](https://github.com/atyourservicecc/reading-notes/blob/main/reading-notes-repo.md#what-is-markdown)
 
