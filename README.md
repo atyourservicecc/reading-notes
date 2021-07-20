@@ -15,8 +15,10 @@
 
 - [HTML](/HTML.md)
 
-Week of July 19, 2021
-Taking a Software Development Software course through DeltaV
+### Week of July 19, 2021
+
+Taking a Software Development Software course through DeltaV.
+
 We are going to learn about HTML, CSS, and Java. I finally get to learn the HTML coding that I have been dabbling in it for about 10 years!
 
 **_Stay Tuned!_**
