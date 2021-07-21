@@ -16,6 +16,8 @@
 
 - [HTML](/HTML.md)
 
+- [Group Candy Store](/Index_Lab4.html)
+
 ## About this website
 
 During the week of July 19, 2021 I decided to take a Software Development Software course through DeltaV.
